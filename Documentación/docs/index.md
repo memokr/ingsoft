@@ -13,11 +13,13 @@ Integrantes del Equipo:
 
 | Nombre | correo |
 | --- | --- |
-| Name 1 | my.email@mail.com |
+| Rodriguez Librado Jose Isaias | 316026239@pcpuma.acatlan.unam.mx |
 | Name 2 | my.email@mail.com |
 
 &nbsp;
 # Objetivo
+Dar una demostración de un portal funcional con lo que se nos solicitó que tuviese así como desarrollarlo para entrega de proyecto final para la materia "Ingenieria de software"
 
 &nbsp;
-# Problematica
+# Problematica  
+Un banco en desarrollo (nuevo) nos solicitó hacer una demostración de una aplicacion web (software) para su portal de banca electroniica

@@ -10,7 +10,7 @@ theme:
 extra_css:
     - css/page.css
 nav:
-    - Problema: todo.md
+    - Problema: problema.md.md
     - Requerimientos:
         - Requerimiento 1: todo.md
         - Requerimiento 2: todo.md
