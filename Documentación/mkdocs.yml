@@ -12,8 +12,8 @@ extra_css:
 nav:
     - Problema: problema.md
     - Requerimientos:
-        - Requerimiento 1: todo.md
-        - Requerimiento 2: todo.md
+        - Requerimiento 1: requerimiento1.md
+        - Requerimiento 2: requerimiento2.md
     - Modelado:
         - Inicio: todo.md
     - Diseño:
