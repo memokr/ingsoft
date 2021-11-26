@@ -13,3 +13,8 @@ En el diagrama anterior pusimos los factores importantes para la funcionalidad d
 
 En el diagrama anterior representamos la funcionalidad de la base de datos que desarrollamos para poder hacer que el proyecto funcionara bien, gracias a este diagrama logramos poner las conexiones para que los datos que ingresamos en el inicio del programa se puedan guardar y así poder hacer uso de los datos posterioremente para que los usuarios, contraseñas e información adicional ingresada se puedan almacenar y podamos cumplir las restricciones en el usuario y contraseña para que no se repitan y las contraseñas sena de caractéres específicos.
 
+## Diagrama de flujo
+
+<img src="/archivos/index/flujo.gif" alt="drawing" width="800" style="width: 100%;"/>
+
+En el digrama de flujo anterior tenemos la propuesta del prototipo original el cual tuvo algunas carencias y dificultades ya que nuestro cliente despues nos pidio que no se le añadiera el cobro con la tarjeta de credito. En el diagrama podemos observar el como va fluyendo con respecto a distintas ordenes o reglas.
