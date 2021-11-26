@@ -1,26 +1,43 @@
-## REQUERIMIENTOS 
+## Requerimientos solicitados:
 
-### REQUERIMIENTOS DEL USUARIO 
+## 1.-Registrar cliente:
+Al ingresar a la aplicación web encontrará la opcion de registrarse, de esa manera el cliente en cuestion podrá crear su cuenta en el banco de Metrociudad a la cual se le asignará un numero de cuenta que será única e irrepetible. De la misma manera no se podrán crear cuentas con el mismo nombre de usuario a la de una cuenta ya existente.
+Por motivos de seguridad la contraseña tendrá que tener minimo 8 caracteres, incluir alguna mayúscula y un símbolo.
+![](https://www.batiburrillo.net/wp-content/uploads/2020/03/La-importancia-que-tiene-la-seguridad-web.jpg)
 
-1-1 Validar Usuario
+## 2.- Iniciar Sesión
 
-En el momento en que un cliente desee entrar al sistema de consultas por Internet, se encontrara con una pantalla de bienvenida en la cual deberá validarse como un usuario del "METROMAN". 
+Al inciar sesión el cliente tendrá que escribir su nombre de usuario y contraseña anteriormente creadas y de esa manera podrá tener acceso al portal del banco en el cual podrá realizar los siguientes movimientos y funciones.:
 
-2- Crear Cuenta
+## 3.- Consulta de saldo:
+El cliente deberá tener acceso a la consulta de su saldo en cualquier momento y a tiempo real, el cual se deberá de actualizar en caso de que haya algun movimiento en su cuenta.
 
-Cuando un usuario se acerque a las instalaciones del banco, este puede solicitar la creación de una cuenta, en este momento el asesor comercial del banco esta en la capacidad de crearle una cuenta al nuevo usuario
 
-3-Solicitar Crédito
+## 4 .-  Pedir un prestamo
 
-Para la solicitud de un crédito un usuario debe ser miembro del banco por lo cual se deberá ejecutar primero el RQ02 Crear Cuenta y en este momento el asesor comercial remitirá al cliente del banco a la oficina del asesor de créditos. 
+Al tener el problema con su sistema el alcalde desea que los clientes del banco de Metroman no tengan ningún tipo de problema al solicitar algún prestamo, por lo cual todos los prestamos serán autorizados de manera inmediata llenando los campos:
+-Nombre de la cuenta
+-No. cuenta
+-Monto del prestamo.
 
-4- Realizar Consultas-Cuenta
+![](https://retos-directivos.eae.es/wp-content/uploads/2017/12/iStock-540376942-e1514130352114.jpg)
 
-Un usuario del banco tiene una cuenta ya sea de ahorros o una cuenta corriente, por el cual sea
-o no cliente de crédito, cualquier persona poseedora de una cuenta podrá realizar consultas
-por medio de la Web de su respectiva cuenta.
+## 5.- Transferencia bancaria
 
-5-Verificar Información Usuario
+Al ya tener el portal creado también el portal necesita tener la capacidad de realizar transferencias bancarias entre clientes dando la posibilidad de transferir la cantidad de dinero deseada entre una cuenta especifica a otra de algún otro cliente.
 
-En cualquier momento del crédito un asesor de crédito puede ingresar al sistema para verificar la información de un usuario de crédito(Tambien se pidio modificar el tipo de direccion de cuenta ).
+Donde evidentemente tendrá que la cuenta que recibirá la transferencia aumentar su saldo por la cantidad a transferir tanto la cuenta que esta relizando la transferencia tendrá que disminuir por dicha cantidad.
+
+La aplicación tiene que tener la capacidad de realizar este tipo de transacciones de manera inmediata entre los clientes del banco de Metroman
+
+Para la transferencia se debe de solicitar:
+-Nombre de la cuenta
+-No.cuenta a la que se quiere realizar la transferencia
+-Monto a transferir.
+
+![](https://d3uir0eo9qeeuq.cloudfront.net/blog/wp-content/uploads/2020/10/21164935/transferencia-bancaria.jpg)
+
+## 6.- Completar y Editar información de la cuenta:
+
+Los clientes deberán poder completar su información personal en una sección del portal y a su vez poderla cambiar en el momento que ellos gusten de esa manera el banco tendrá la dirección de los clientes a tiempo real para cualquier estado de cuenta o documento que se necesite mandar.
 

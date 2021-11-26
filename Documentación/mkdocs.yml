@@ -11,14 +11,9 @@ extra_css:
     - css/page.css
 nav:
     - Problema: problema.md
-    - Requerimientos:
-        - Requerimiento 1: requerimiento1.md
-        - Requerimiento 2: requerimiento2.md
-    - Modelado:
-        - Inicio: todo.md
-    - Diseño:
-        - Inicio: todo.md
-    - Validación:
-        - Inicio: todo.md
+    - Requerimientos: requerimiento1.md
+    - Modelado: modelado.md
+    - Diseño: diseño.md
+    - Validación: validacion.md
 copyright: ©GMDXX
 site_author: GMDXX

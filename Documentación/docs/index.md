@@ -13,9 +13,11 @@ Integrantes del Equipo:
 
 | Nombre | correo |
 |--------|--------|
-| Arazueta Becerra Zamantha  | 420097789@pcpuma.acatlan.unam.mx |
 | Rodriguez Librado Jose Isaias | 316026239@pcpuma.acatlan.unam.mx |
 | Salceda Solórzano Román Said | 316347460@pcpuma.acatlan.unam.mx |
+| Guillermo Kramsky Iturbide | 316640675@pcpuma.acatlan.unam.mx   |
+| Emilio Diego Gerard Valdes | 420046673@pcpuma.acatlan.unam.mx   |
+
 
 
 &nbsp;
@@ -24,4 +26,4 @@ Dar una demostración de un portal funcional con lo que se nos solicitó que tuv
 
 &nbsp;
 # Problematica  
-Un banco en desarrollo (nuevo) nos solicitó hacer una demostración de una aplicacion web (software) para su portal de banca electroniica
+El alcalde de Metrociudad nos solicitó hacer una aplicacion web (software) para su portal de banca electrónica
