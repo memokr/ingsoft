@@ -14,7 +14,8 @@ Integrantes del Equipo:
 | Nombre | correo |
 | --- | --- |
 | Rodriguez Librado Jose Isaias | 316026239@pcpuma.acatlan.unam.mx |
-| Name 2 | my.email@mail.com |
+| Salceda Solórzano Román Said | 316347460@pcpuma.acatlan.unam.mx |
+| Name  3| my.email@mail.com |
 
 &nbsp;
 # Objetivo
