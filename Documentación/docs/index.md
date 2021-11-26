@@ -12,10 +12,11 @@
 Integrantes del Equipo:
 
 | Nombre | correo |
-| Arazueta Becerra Zamantha  | 420097789@pcpuma.acatlan.unam.mx--- |
+|--------|--------|
+| Arazueta Becerra Zamantha  | 420097789@pcpuma.acatlan.unam.mx |
 | Rodriguez Librado Jose Isaias | 316026239@pcpuma.acatlan.unam.mx |
 | Salceda Solórzano Román Said | 316347460@pcpuma.acatlan.unam.mx |
-| Name  3| my.email@mail.com |
+
 
 &nbsp;
 # Objetivo

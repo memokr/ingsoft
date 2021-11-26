@@ -7,3 +7,5 @@ De las primeras problematicas que nos topamos son ciertos requerimientos y el he
 Se decide usar python y una pequeña base de datos en SQL 
 
 Sin embargo a lo largo de los meses, el cliente decide cambiar, siendo asi que el portal se modifica asi como los diagramas, teniendo asi como un proyecto final lo que acontinuación se presenta.  
+
+![imagen1](/Documentación/docs/SS1.jpg)
